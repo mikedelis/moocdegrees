@@ -197,8 +197,8 @@ Course |   University  | Duration | Effort | Certificate
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
 [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) |MIT   | 12 weeks | 7-14 Hours/Week|Audited only
-[Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://coursera.org/share/706e7997ceb99b4ce4025a93a0d81671)
-[Mathematical Biostatistics Boot Camp 2](https://www.coursera.org/learn/biostatistics-2) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/7WPR4RNPDAS2)
+[Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/WQ3UHBVC3RXH)
+[Mathematical Biostatistics Boot Camp 2](https://www.coursera.org/learn/biostatistics-2) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/D5TWPDVM3BGD)
 [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) |University of California, Santa Cruz  | 4 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/WHYY5MT6CQUU)
 [DNA Decoded](https://www.coursera.org/learn/dna-decoded) |McMaster University | 4 weeks | 8 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/J3G2N7VPUK6X)
 [Big Data Science with the BD2K-LINCS Data Coordination and Integration Center](https://www.coursera.org/learn/bd2k-lincs) | Icahn School of Medicine at Mount Sinai | 7 weeks | 4-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/records/97EQPU4XPKAF)
