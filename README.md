@@ -196,7 +196,7 @@ Course |   University  | Duration | Effort | Certificate
 
 Course |   University  | Duration | Effort | Certificate
 :-- | :--: |   :--:  | :--: | :--:
-[Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) |MIT   | 12 weeks | 7-14 Hours/Week|Audited only
+[Biology Everywhere Specialization](https://www.coursera.org/specializations/biology-everywhere) |University of Colorado Boulder   | 16 weeks | 3-5 Hours/Week|Audited only
 [Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/WQ3UHBVC3RXH)
 [Mathematical Biostatistics Boot Camp 2](https://www.coursera.org/learn/biostatistics-2) |Johns Hopkins University-Bloomberg School of Public Health | 4 weeks | 3-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/D5TWPDVM3BGD)
 [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) |University of California, Santa Cruz  | 4 weeks | 2-5 Hours/Week|[Verify Certificate](https://www.coursera.org/account/accomplishments/verify/WHYY5MT6CQUU)
